@@ -1,0 +1,2 @@
+# No external dependencies required.
+# Uses Python built-in modules: sqlite3 and os.
