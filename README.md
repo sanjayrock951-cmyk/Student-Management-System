@@ -35,3 +35,7 @@ python main.py
 
 ## Author
 Sanjay Kushwaha
+
+## Project Output
+
+![Student Management System Output](student-list.png)
